@@ -1,5 +1,5 @@
 # employee-salary-prediction
-A capstone project using ML & DL to predict employee salary.
+A capstone project using ML to predict employee salary.
 
 This project predicts employee salaries based on inputs like job role, education level, experience, and more using ML and DL techniques.
 
